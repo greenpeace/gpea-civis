@@ -1,2 +1,4 @@
 -- This is a test script to update an issue in JIRA
 -- Test Update on May 20
+-- If you want to add this to JIRA, you need to commit using the following structure: "JIRA-IssueCode any commit text." 
+-- Example commit for this test: EADT-81 Test adding this code to JIRA
